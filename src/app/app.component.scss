@@ -1,0 +1,26 @@
+.container {
+  margin: 0 auto;
+  padding: 30px;
+
+  table {
+    width: 100%;
+  }
+
+  th.mat-sort-header-sorted {
+    color: black;
+  }
+
+  .mat-mdc-table {
+    background-color: white;
+  }
+
+  .mat-mdc-header-row {
+    background-color: #e3e3e3;
+  }
+
+  .mat-mdc-cell, .mat-mdc-header-cell {
+    border-bottom-color: #e3e3e3;
+  }
+}
+
+
